@@ -68,7 +68,7 @@ O fluxo de trabalho verifica se um pedido é válido e direciona para aprovaçã
   "pedidoValido": false
 }
 ```
-7. Observe o caminho que a execução percorre e o estado final alcançado.:
----
+7. Observe o caminho que a execução percorre e o estado final alcançado.
+
 
 
